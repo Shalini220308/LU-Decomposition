@@ -10,7 +10,7 @@ To write a program to find the LU Decomposition of a matrix.
 ## Algorithm
 1. 
 2. 
-3. 
+3.  
 4. 
 
 ## Program:
